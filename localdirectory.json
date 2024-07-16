@@ -4,7 +4,7 @@
             "id": 1,
             "firstName": "第一计",
             "lastName": "瞒天过海",
-            "birthdate": "在唐太宗李世民准备攻打隋末割据军阀王世充时，他需要率军渡过黄河。",
+            "birthdate":"1963-05-05",
             "profilePicture": "1",
             "forceSensitive": true,
             "affiliation": "JEDI"
@@ -13,7 +13,7 @@
             "id": 2,
             "firstName": "第二计",
             "lastName": "围魏救赵",
-            "birthdate": "战国时期，魏国攻打赵国，",
+            "birthdate":"1963-05-05",
             "profilePicture": "2",
             "forceSensitive": true,
             "affiliation": "RESISTANCE"
@@ -22,7 +22,7 @@
     "id": 3,
     "firstName": "第三计",
     "lastName": "借刀杀人",
-    "birthdate": "在东汉末年，董卓掌握了朝政，作威作福，横行霸道，",
+    "birthdate":"1963-05-05",
     "profilePicture": "3",
     "forceSensitive": false,
     "affiliation": "RESISTANCE"
