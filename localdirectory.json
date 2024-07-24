@@ -2,7 +2,7 @@
     "individuals": [
         {
             "id": 1,
-            "firstName": "Strategy One",
+            "firstName": "S1",
             "lastName": "Concealing the truth",
             "birthdate": "During the Tang Dynasty, Emperor Li Shimin planned to attack the warlord Wang Shichong, who was guarding the Yellow River crossing. Li Shimin decided to use a strategy to deceive the enemy. He ordered his soldiers to build a floating bridge and practice crossing it during the day, making the enemy believe they intended to cross there. Meanwhile, Li Shimin secretly sent an elite force to cross the river at another location at night. The enemy, deceived by the daytime maneuvers, concentrated their forces near the floating bridge and failed to detect the real crossing point. As a result, Li Shimin's forces successfully crossed the river, bypassed the enemy's defenses, and launched a surprise attack, ultimately achieving victory. This strategy exemplifies the wisdom of deceiving the heavens to cross the sea, by covering up the real intention and confusing the enemy, making it impossible for them to respond effectively.",
             "profilePicture": "1",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "firstName": "Strategy Two",
+            "firstName": "S2",
             "lastName": "Besiege Wei to rescue Zhao",
             "birthdate": "During the Warring States period in ancient China, the state of Wei attacked the state of Zhao and laid siege to its capital, Handan. Zhao was in a dire situation and sent an urgent plea for help to the state of Qi. response, the Qi state's general, Tian Ji, and his military advisor, Sun Bin, devised a clever strategy to rescue Zhao. Instead of directly confronting the Wei forces at Handan, which would have been difficult and costly, Sun Bin proposed a different approach: they would launch an attack on the state of Wei's capital, Daliang. Tian Ji agreed with Sun Bin's plan. They quickly mobilized their army and marched towards Daliang. When the Wei ruler, Wei Huiwang, received news that the Qi army was attacking his capital, he became extremely alarmed. Realizing that his own state was in danger, he immediately ordered his general, Pang Juan, to withdraw from the siege of Handan and return to defend Wei. As the Wei army hurriedly retreated to protect their homeland, the Qi forces ambushed them along the way. The Wei troops, caught off guard and exhausted from their rapid march, were decisively defeated by the Qi army. This strategy not only saved Zhao from certain defeat but also inflicted significant losses on the Wei army, demonstrating the effectiveness of attacking an enemy’s weak point to force them to abandon their plans and react defensively.",
             "profilePicture": "2",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "firstName": "Strategy Three",
+            "firstName": "S3",
             "lastName": "Attack using the strength of another",
             "birthdate": "During the late Eastern Han Dynasty, Dong Zhuo seized control of the court, wielding power with impunity and acting tyrannically. His actions aroused the ire of many loyal ministers and righteous individuals. Among Dong Zhuo''s subordinates was a formidable warrior named Lv Bu, known for his unparalleled bravery and strength, and he was one of Dong Zhuo's trusted confidants.One of the loyal ministers in the court was Wang Yun, who harbored a deep desire to eliminate Dong Zhuo but was fully aware that he could not match Dong Zhuo's power on his own. Wang Yun decided to use Lv Bu to remove Dong Zhuo. He knew that while Lv Bu was formidable, he had a significant weakness: his love for beautiful women. Additionally, the relationship between Lv Bu and Dong Zhuo was not entirely solid.Wang Yun decided to exploit this weakness. He introduced his adopted daughter, Diao Chan, to Lv Bu and instructed her to show affection towards him. Lv Bu fell in love with Diao Chan at first sight, becoming completely infatuated with her. Simultaneously, Wang Yun presented Diao Chan to Dong Zhuo, who was also captivated by her beauty and kept her in his residence, showering her with affection.Diao Chan pretended to be harassed by Lv Bu in front of Dong Zhuo, deliberately sowing discord between the two. Lv Bu, discovering that Dong Zhuo had taken his beloved, felt intense resentment and began to harbor thoughts of killing Dong Zhuo. Seeing that the time was ripe, Wang Yun secretly persuaded Lv Bu to kill Dong Zhuo to relieve his anguish.",
             "profilePicture": "3",
@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "firstName": "Strategy Four",
+            "firstName": "S4",
             "lastName": "wait for the enemy to wear themselves out",
             "birthdate": "King Liu Bang of Han and King Xiang Yu of Chu had been at war for years, both sides equally matched. Liu Bang's strategist, Han Xin, proposed a strategy of waiting for the enemy to exhaust themselves. He suggested that Liu Bang's army should surround Xiang Yu's forces, cutting off their supplies and causing them to become desperate. Meanwhile, the Han army would rest and conserve their strength, waiting for the opportune moment to strike. As time passed, Xiang Yu's troops grew increasingly weary and demoralized, while Liu Bang's forces remained strong and prepared. Seizing this advantage, Liu Bang launched a decisive attack, leading to a crushing victory over Xiang Yu in the Battle of Gaixia. This victory ended the Chu-Han Contention.",
             "profilePicture": "4",
@@ -38,9 +38,9 @@
         },
         {
             "id": 5,
-            "firstName": "Strategy Five",
-            "lastName": "趁火打劫",
-            "birthdate": "在三国时期，东吴的孙权与蜀汉的刘备结盟，共同对抗曹魏。一次，曹操率大军南下进攻孙权，双方在长江边展开激战。曹操的水军虽然数量众多，但由于缺乏水战经验，船只连环结阵，行动不便。孙权的谋士黄盖提出了火攻策略。他装作投降，派出装满易燃物品的船只靠近曹操的连环战船。待船只靠近后，黄盖命人点燃船只，火势迅速蔓延，曹操的水军陷入一片火海，损失惨重。刘备得知曹操大败后，迅速派军队趁火打劫，攻占了许多曹操的城池和地盘。这一战术不仅帮助孙权击退了曹操，还使刘备趁机扩大了自己的势力范围。",
+            "firstName": "S5",
+            "lastName": "Take advantage of the situation",
+            "birthdate": "During the Three Kingdoms period, Sun Quan of Eastern Wu allied with Liu Bei of Shu Han to oppose Cao Wei. At one point, Cao Cao led a large army south to attack Sun Quan, and both sides clashed by the Yangtze River. Although Cao Cao's navy was large, they lacked experience in naval warfare and had their ships chained together, making them difficult to maneuver. Sun Quan's strategist, Huang Gai, proposed a fire attack. Pretending to surrender, he sent ships filled with flammable materials towards Cao Cao's chained fleet. Once the ships were close enough, Huang Gai's men set them on fire, and the blaze quickly spread, engulfing Cao Cao's navy in flames and causing severe losses. After learning of Cao Cao's defeat, Liu Bei swiftly dispatched his troops to take advantage of the chaos, capturing many of Cao Cao's cities and territories. This strategy not only helped Sun Quan repel Cao Cao but also allowed Liu Bei to expand his own power significantly.",
             "profilePicture": "5",
             "forceSensitive": true,
             "affiliation": "FIRST_ORDER"
