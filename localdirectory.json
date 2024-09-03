@@ -1,246 +1,329 @@
 {
-  "individuals": [
-   {
-      "id": 1,
-      "firstName": "S1",
-      "lastName": "Heavenly Deception",
-      "description": "During the Tang Dynasty, Emperor Taizong of Tang planned to attack the warlord Wang Shichong, who was guarding a river crossing on the Yellow River. To deceive the enemy, Taizong ordered his soldiers to build a floating bridge during the day and perform drills on it, making the enemy believe that they planned to cross the river there. Meanwhile, Taizong secretly dispatched elite troops to cross the river at another location during the night. The enemy was misled by the daytime drills and concentrated their forces near the floating bridge, not noticing the actual crossing point. Eventually, Taizong's troops successfully crossed the river, bypassed the enemy's defenses, and launched a surprise attack, achieving victory. This strategy exemplifies the wisdom of 'Heavenly Deception' by concealing true intentions and confusing the enemy, making it difficult for them to respond effectively.",
-      "profilePicture": "1",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 2,
-      "firstName": "S2",
-      "lastName": "Rescue Zhao by Encircling Wei",
-      "birthdate": "During the Warring States period, Wei state besieged the capital of Zhao state, Handan. Zhao was in a difficult situation and urgently sought aid from Qi. Qi's general Tian Ji and his strategist Sun Bin decided to use the strategy of 'Rescue Zhao by Encircling Wei.' Instead of directly attacking Wei's army, they turned to attack Wei's capital, Daliang. When Wei's ruler, King Wei Hui, learned that the Qi army was attacking his capital, he panicked and ordered General Pang Juan to return to defend Wei. The Wei army was ambushed by the Qi army on the way back and was thoroughly defeated due to exhaustion. This strategy not only rescued Zhao but also inflicted significant losses on the Wei army, demonstrating the effectiveness of attacking the weak point and forcing a retreat.",
-      "profilePicture": "2",
-      "forceSensitive": true,
-      "affiliation": "RESISTANCE"
-    },
-    {
-      "id": 3,
-      "firstName": "S3",
-      "lastName": "Killing with a Borrowed Knife",
-      "birthdate": "During the late Eastern Han Dynasty, Dong Zhuo controlled the court and acted with impunity. This provoked dissatisfaction among many loyalists. Dong Zhuo had a fierce general, Lü Bu, who was one of his trusted subordinates. Wang Yun, a loyalist in the court, knew he could not stand against Dong Zhuo alone. He decided to use Lü Bu to eliminate Dong Zhuo. Wang Yun knew Lü Bu was fierce but had a fatal weakness: his infatuation with beautiful women. He also knew that Lü Bu's relationship with Dong Zhuo was not unbreakable. Wang Yun introduced his adopted daughter, Diao Chan, to Lü Bu, suggesting she was attracted to him. Lü Bu fell deeply in love with her. Wang Yun then presented Diao Chan to Dong Zhuo, who was also captivated by her beauty and kept her in his residence. Diao Chan pretended to be harassed by Lü Bu in front of Dong Zhuo, deliberately sowing discord between them. Lü Bu, feeling wronged by Dong Zhuo's taking of his beloved, began to entertain thoughts of killing Dong Zhuo. Wang Yun saw the right moment and secretly encouraged Lü Bu to eliminate Dong Zhuo to avenge his grievance.",
-      "profilePicture": "3",
-      "forceSensitive": false,
-      "affiliation": "RESISTANCE"
-    },
-    {
-      "id": 4,
-      "firstName": "S4",
-      "lastName": "Waiting at Ease for the Exhausted",
-      "birthdate": "During the prolonged conflict between Liu Bang of Han and Xiang Yu of Chu, both sides were evenly matched. Liu Bang's strategist Han Xin proposed a strategy to encircle Xiang Yu's army, cut off their supplies, and force them into a difficult situation. Meanwhile, Han's army would rest and prepare. Over time, Xiang Yu's army became exhausted and demoralized, while Liu Bang's army remained strong and ready. Seizing this advantageous moment, Liu Bang launched a decisive attack and won a great victory at the Battle of Gaixia, ending the Chu-Han contention.",
-      "profilePicture": "4",
-      "forceSensitive": false,
-      "affiliation": "RESISTANCE"
-    },
-    {
-      "id": 5,
-      "firstName": "S5",
-      "lastName": "Plundering While the Fire Burns",
-      "birthdate": "During the Three Kingdoms period, Sun Quan of Eastern Wu allied with Liu Bei of Shu Han against Cao Wei. Cao Cao led a large army south to attack Sun Quan, and a fierce battle ensued near the Yangtze River. Despite Cao Cao's large fleet, they lacked experience in naval warfare and their ships were chained together, limiting maneuverability. Sun Quan's advisor Huang Gai suggested using fire attacks. He pretended to surrender and sent boats filled with flammable materials towards Cao Cao's fleet. When the boats approached, Huang Gai's men set them on fire, quickly spreading the flames and burning most of Cao Cao's fleet. After Cao Cao's disastrous defeat, Liu Bei quickly sent troops to capitalize on the victory, seizing many of Cao Cao's cities and territories. This strategy not only helped Sun Quan repel Cao Cao but also significantly expanded Liu Bei's influence.",
-      "profilePicture": "5",
-      "forceSensitive": true,
-      "affiliation": "FIRST_ORDER"
-    },
-    {
-      "id": 6,
-      "firstName": "Strategy Six",
-      "lastName": "Sound the East, Strike the West",
-      "birthdate": "During the Three Kingdoms period, Cao Cao and Yuan Shao fought a decisive battle at Guandu. Yuan Shao's forces were numerous and well-equipped, while Cao Cao's army was relatively small and at a disadvantage. To turn the tide, Cao Cao used the strategy of 'Sound the East, Strike the West.' He sent a small force to feign an attack on Yuan Shao's camp in the east, creating a lot of noise to make Yuan Shao believe Cao Cao's main forces were attacking from that direction. Yuan Shao redirected many troops to the east for defense. Meanwhile, Cao Cao's main forces secretly circled around to Yuan Shao's rear and attacked Yuan Shao's supply base. Without sufficient supplies, Yuan Shao's army became demoralized and was ultimately defeated by Cao Cao at Guandu. This battle became a pivotal turning point in the Three Kingdoms history, establishing Cao Cao's dominance in the north.",
-      "profilePicture": "6",
-      "forceSensitive": true,
-      "affiliation": "FIRST_ORDER"
-    },
-    {
-      "id": 7,
-      "firstName": "Strategy Seven",
-      "lastName": "Create Something Out of Nothing",
-      "birthdate": "During the Three Kingdoms period, Zhuge Liang of Shu was facing Sima Yi of Wei at Qishan. Due to a shortage of supplies, Zhuge Liang decided to retreat. To conceal this plan, he came up with a strategy of 'Creating Something Out of Nothing.' Zhuge Liang ordered his troops to secretly withdraw at night while leaving a small force to maintain normal activities at the camp. During the day, the Shu camp created a large amount of smoke from cooking fires to give the impression of ongoing camp activities and preparations for battle. Zhuge Liang also placed numerous flags and military equipment around the camp to simulate a large-scale battle readiness. Sima Yi, seeing the camp's activity and preparation, mistakenly believed that the Shu army was still stationed there and preparing for battle, and thus did not dare to act. As a result, Zhuge Liang successfully withdrew his main force back to Shu and preserved the strength of his army.",
-      "profilePicture": "7",
-      "forceSensitive": false,
-      "affiliation": "FIRST_ORDER"
-    },
-    {
-      "id": 8,
-      "firstName": "Strategy Eight",
-      "lastName": "Secretly Cross the Chen Cang",
-      "birthdate": "In the early Western Han Dynasty, Liu Bang of Han and Xiang Yu of Chu were competing for dominance. Liu Bang's strategist Han Xin was a talented general who repeatedly contributed strategies leading to victory. At that time, Han Xin was tasked with attacking the Western Wei territory. The Wei rulers were very powerful, with tight defenses, making a frontal assault likely to result in failure. Han Xin decided to use the 'Secretly Cross the Chen Cang' strategy to break through the enemy's defenses. Han Xin ordered his soldiers to build a floating bridge near Chen Cang during the day, creating the illusion of an impending attack from there. He also had soldiers frequently move around Chen Cang to simulate preparations for a large-scale attack, drawing the enemy's attention. Meanwhile, Han Xin secretly dispatched an elite force to cross the Yellow River via a different small route. With the enemy's attention focused on Chen Cang, they did not notice Han Xin's actual attack route. Han Xin's elite force successfully bypassed the enemy's defenses and launched a surprise attack on Western Wei's hinterland. By the time the enemy realized Han Xin's troops had penetrated their territory, it was too late, and they were hastily forced into battle, ultimately being defeated. The 'Secretly Cross the Chen Cang' strategy not only successfully avoided a direct confrontation but also achieved the objective of conquering the Western Wei territory.",
-      "profilePicture": "8",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 9,
-      "firstName": "Strategy Nine",
-      "lastName": "Sacrificing the Plum Tree for the Peach",
-      "birthdate": "During the Three Kingdoms period, the warlord Cao Cao wanted to lure Liu Bei out of his stronghold. Cao Cao knew Liu Bei was cautious and would not come out easily. To force Liu Bei to move, Cao Cao decided to adopt the 'Sacrificing the Plum Tree for the Peach' strategy. Cao Cao made false moves and pretended to attack a secondary target, while his main forces were secretly prepared to attack Liu Bei’s stronghold. Cao Cao ordered his army to make a feigned attack on a minor strategic point in Liu Bei’s territory, creating the illusion of a major offensive. Liu Bei, believing Cao Cao's forces were moving towards this minor point, ordered his troops to defend this area. Meanwhile, Cao Cao’s main forces quietly moved toward Liu Bei’s true stronghold. By the time Liu Bei realized Cao Cao's true intentions, it was too late to prevent the attack. Cao Cao's forces successfully captured Liu Bei's stronghold. This strategy effectively deceived Liu Bei and allowed Cao Cao to achieve his goal.",
-      "profilePicture": "9",
-      "forceSensitive": true,
-      "affiliation": "FIRST_ORDER"
-    },
-    {
-      "id": 10,
-      "firstName": "Strategy Ten",
-      "lastName": "Feint to the North, Attack to the South",
-      "birthdate": "During the late Eastern Han Dynasty, the warlord Cao Cao faced the powerful warlord Yuan Shao. Yuan Shao's forces were strong and formidable, presenting a significant threat to Cao Cao. To counter this, Cao Cao decided to use the strategy of 'Feint to the North, Attack to the South.' Cao Cao's army made a feint attack in the north, creating a diversion to draw Yuan Shao's attention and troops away from the south. Cao Cao’s main forces then secretly advanced towards the southern region, catching Yuan Shao’s forces off guard. By the time Yuan Shao realized the true direction of Cao Cao’s main attack, it was too late to reposition his troops effectively. Cao Cao's forces achieved a decisive victory by exploiting the element of surprise and outmaneuvering Yuan Shao's army.",
-      "profilePicture": "10",
-      "forceSensitive": false,
-      "affiliation": "JEDI"
-    },
+"individuals": [
+  {
+    "id": 1,
+    "firstName": "S1",
+    "lastName": "瞒天过海",
+    "birthdate": "在唐朝时期，李世民计划攻击守卫黄河渡口的军阀王世充。李世民决定用计迷惑敌人。他命令士兵们在白天搭建浮桥，并在桥上进行演练，让敌人误以为他们计划从那里渡河。同时，李世民秘密派遣精锐部队在夜间从另一个地点渡河。敌人被白天的演习所迷惑，将他们的兵力集中在浮桥附近，没有发现真正的渡河点。最终，李世民的部队成功渡河，绕过敌军防线，发动了突然袭击，最终取得了胜利。这个策略体现了瞒天过海的智慧，通过掩盖真实意图并迷惑敌人，使敌人无法有效应对。",
+    "profilePicture": "1",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 2,
+    "firstName": "S2",
+    "lastName": "围魏救赵",
+    "birthdate": "在中国古代的战国时期，魏国攻打赵国，并围困其首都邯郸。赵国陷入困境，向齐国紧急求援。齐国将军田忌和他的军师孙膑商议，决定采用围魏救赵的计策。他们没有直接攻击魏军，而是转向进攻魏国的首都大梁。魏国君主魏惠王得知齐军正在攻击他的首都，非常惊慌，急忙命令将军庞涓撤回保卫魏国。魏军在返回途中遭到齐军的伏击，因行军疲惫而被齐军彻底击败。这一策略不仅解救了赵国，还使魏军遭受了重大损失，证明了攻其弱点、迫其撤退的有效性。",
+    "profilePicture": "2",
+    "forceSensitive": true,
+    "affiliation": "RESISTANCE"
+  },
+  {
+    "id": 3,
+    "firstName": "S3",
+    "lastName": "借刀杀人",
+    "birthdate": "在东汉末年，董卓控制了朝廷，肆意横行。他的行为激起了许多忠臣义士的不满。在董卓的手下有一位勇猛无比的武将吕布，是董卓的心腹之一。朝中有位忠臣王允，他深知凭自己一人之力无法抗衡董卓的权势。于是他决定利用吕布来除掉董卓。王允知道吕布虽然勇猛，但有一个致命的弱点：贪恋美色。并且吕布与董卓的关系也并非牢不可破。于是，王允便将自己义女貂蝉介绍给吕布，并暗示她对吕布示爱。吕布对貂蝉一见钟情，深深迷恋上了她。同时，王允又将貂蝉献给董卓。董卓也被貂蝉的美貌所吸引，将她留在府中。貂蝉在董卓面前假装被吕布骚扰，故意挑拨他们之间的关系。吕布发现董卓夺走了自己心爱的女人，心中愤恨不已，渐渐起了杀掉董卓的念头。王允见时机成熟，便秘密劝说吕布除掉董卓以解心头之恨。",
+    "profilePicture": "3",
+    "forceSensitive": false,
+    "affiliation": "RESISTANCE"
+  },
+  {
+    "id": 4,
+    "firstName": "S4",
+    "lastName": "以逸待劳",
+    "birthdate": "汉高祖刘邦和楚霸王项羽之间的战争持续了多年，双方势均力敌。刘邦的谋士韩信提出了一个策略，建议刘邦的军队围困项羽的军队，切断其粮道，迫使其陷入困境。同时，汉军则休养生息，静待时机。随着时间的推移，项羽的军队逐渐疲惫和士气低落，而刘邦的军队依然强壮且准备充分。抓住这个有利时机，刘邦发起了决定性的攻击，在垓下之战中大胜项羽。这场胜利结束了楚汉之争。",
+    "profilePicture": "4",
+    "forceSensitive": false,
+    "affiliation": "RESISTANCE"
+  },
+  {
+    "id": 5,
+    "firstName": "S5",
+    "lastName": "趁火打劫",
+    "birthdate": "三国时期，东吴的孙权与蜀汉的刘备联合反对曹魏。曹操率领大军南下攻打孙权，双方在长江附近展开了激烈的战斗。虽然曹操的水军庞大，但缺乏水战经验，而且他们的船只用铁链相连，难以机动。孙权的谋士黄盖建议采用火攻。他假意投降，派出装满可燃物的船只朝曹操的舰队驶去。当船只靠近时，黄盖的部下放火，火势迅速蔓延，烧毁了曹操的大部分舰队。曹操惨败后，刘备迅速派兵乘胜追击，占领了曹操的许多城市和领土。此策略不仅帮助孙权击退了曹操，也使刘备大大扩展了自己的势力。",
+    "profilePicture": "5",
+    "forceSensitive": true,
+    "affiliation": "FIRST_ORDER"
+  },
+{
+"id": 6,
+"firstName": "Strategy Six",
+"lastName": "声东击西",
+"birthdate": "在三国时期，曹操与袁绍在官渡进行了一场决定性的战役。袁绍的军队人数众多，装备精良，而曹操的军队则相对较少，处于劣势。为了扭转局势，曹操决定采用声东击西的计谋。曹操派出一支小部队假装攻打袁绍的营地，在东边制造了很大的动静，让袁绍以为曹操的主力部队在东边。袁绍调动了大量兵力前往东边进行防御。而此时，曹操的主力部队却悄悄绕到袁绍的后方，袭击了袁绍的粮草供应基地。袁绍的大军因为缺乏粮草供应，军心动摇，最终在官渡之战中被曹操击败。这一战役成为三国历史上的重要转折点，曹操由此奠定了北方霸主的地位。",
+"profilePicture": "6",
+"forceSensitive": true,
+"affiliation": "FIRST_ORDER"
+},
+{
+"id": 7,
+"firstName": "Strategy Seven",
+"lastName": "无中生有",
+"birthdate": "在三国时期，蜀国的诸葛亮与魏国的司马懿对峙于祁山。由于蜀军粮草不足，诸葛亮决定退兵。但为了掩盖这个计划，他想出了一个无中生有的计策。诸葛亮命令部下在夜间秘密撤退，同时留下少部分兵力在营地制造正常的生活和行军的假象。白天，蜀军在营地里燃起大量的炊烟，给魏军造成蜀军依旧驻扎的假象。同时，诸葛亮还命人在营地周围设置了大量的旗帜和军械，假装准备大规模战斗。司马懿看到蜀军营地炊烟四起、军械齐备，误以为蜀军并未撤退，反而在做战斗准备，因此不敢轻举妄动。结果，诸葛亮成功地将主力部队撤回蜀地，保全了军队的实力。",
+"profilePicture": "7",
+"forceSensitive": false,
+"affiliation": "FIRST_ORDER"
+},
+{
+"id": 8,
+"firstName": "Strategy Eight",
+"lastName": "暗度陈仓",
+"birthdate": "在西汉初期，汉高祖刘邦与楚霸王项羽争夺天下。刘邦的军师韩信，是一位才智出众的将领，屡次为刘邦出谋划策，使其在多次战役中取得胜利。当时，韩信奉命带领一支军队前往攻打西魏的领地。西魏的统治者非常强大，防守十分严密，正面进攻很可能会遭到惨败。韩信决定采用暗度陈仓的策略来突破敌人的防线。韩信命令士兵们在白天在陈仓附近修筑浮桥，制造出要从这里渡河进攻的假象。他还让士兵们在陈仓附近频繁活动，制造出即将大规模进攻的假象，以吸引敌人的注意力。与此同时，韩信秘密派遣一支精锐部队，悄悄地从另一条小路渡过黄河。因为敌人的注意力全部集中在陈仓，他们并没有发现韩信的真正进攻路线。韩信的精锐部队成功地绕过了敌人的防线，出其不意地攻击了西魏的腹地。当敌人发现韩信的部队已经进入西魏腹地时，后悔莫及，仓促应战，最终被韩信击败。通过暗度陈仓的策略，韩信不仅成功地突破了敌人的防线，还迅速占领了西魏的重要据点，为刘邦的统一大业立下了汗马功劳。",
+"profilePicture": "8",
+"forceSensitive": true,
+"affiliation": "SITH"
+},
+{
+"id": 9,
+"firstName": "Strategy Nine",
+"lastName": "隔岸观火",
+"birthdate": "这个故事发生在战国时期，当时七国争雄，局势复杂多变，各国君主和大臣们都在谋划着如何扩大自己的势力和影响力。有一次，齐国和燕国发生了激烈的冲突，双方都调动了大量的军队进行战争。战况非常激烈，双方都损失惨重。邻近的赵国国君赵武灵王得知此事后，决定采取隔岸观火的策略，他没有急于介入，而是冷静地观察这场战争的发展。赵武灵王召集大臣们商议，他说：现在齐国和燕国正在拼死拼活地战斗，如果我们现在介入，无论支持哪一方，都会引来另一方的仇视。而且，我们现在的实力也不足以同时对抗两国。不如静观其变，等他们两败俱伤时，我们再出手收拾残局。大臣们听后，纷纷表示赞同。于是，赵武灵王下令，严密关注战局的发展，但不派兵介入。这场战争持续了数月，齐国和燕国的军队都受到了极大的损耗，最终两国都无力再战，只能议和。战争结束后，齐国和燕国的国力大幅削弱，而赵国因为采取了隔岸观火的策略，保全了实力。此时，赵武灵王抓住时机，迅速调动军队，发动了一场闪电战，轻而易举地夺取了原本属于齐国和燕国的大片领土，扩大了赵国的版图和影响力。",
+"profilePicture": "9",
+"forceSensitive": false,
+"affiliation": "JEDI"
+},
+{
+"id": 10,
+"firstName": "Strategy Ten",
+"lastName": "笑里藏刀",
+"birthdate": "在战国时期，齐国国君田文惠公面对周围敌国的包围和威胁，他决定采取笑里藏刀的策略来保护国家的利益。田文惠公表面上对周围国家示好，频繁派使者和外交官出使各国，展示出齐国的友好和善意。他还大力提倡内部的经济发展和文化繁荣，吸引了大量商人和文化人士来到齐国，使得齐国的国力得到了一定的恢复和增强。然而，背后田文惠公并没有放松对敌国的警惕和防备。他在国境线上加强了军事防守，密切监视周围国家的动向。同时，他通过特工和间谍，秘密收集敌国的情报，并策划针对性的行动。有一次，齐国的一位使者前往楚国进行外交，表现出极大的友好态度和诚意。在楚国，他与楚国国君交谈甚欢，表达出齐国希望与楚国建立长久友好关系的愿望。然而，使者在楚国期间，利用机会暗中收集了大量关于楚国军事和政治的情报，并通过暗号传递给齐国的特工。这些情报最终帮助齐国了解了楚国的真实意图和弱点，为将来可能的行动做好了准备。田文惠公通过笑里藏刀的策略，既维护了齐国的外交形象和内部稳定，又保护了国家的安全和利益。",
+"profilePicture": "10",
+"forceSensitive": true,
+"affiliation": "RESISTANCE"
+},
+{
+"id": 11,
+"firstName": "Strategy Eleven",
+"lastName": "李代桃僵",
+"birthdate": "传说有兄弟五人，均为好逸恶劳、游手好闲的浪荡子，一个偶然的机会，他们得到了皇帝的赏识，当上了侍中郎。从此他们的生活发生了翻天覆地的变化，荣华富贵享之不尽，成了钟鸣鼎食之家。所住宅第，黄金雕花的阁门，屋顶的琉璃黄瓦，凌空的楼阁，红色的阁道，犹如飞翔在天空，仿佛仙子所居。厅堂之上，各种精致的酒樽应有尽有。他们可以彻夜狂欢。酒酣耳热之时，还有美丽的女乐工在旁奏乐助兴。在他们后花园的池塘之内，有三十六对鸳鸯调情戏水，好不尽兴。后来，五兄弟有人犯了罪，一朝成了阶下囚，不得不接受酷刑。这时其他兄弟各扫自家门前雪，休管他人瓦上霜，毫不惦念手足之情，互相倾轧，丑态百出。为此，百姓间流传着一首歌谣：兄弟四五人，皆为侍中郎，五日一时来，观者满路旁。黄金络马头，颎颎何煌煌。桃生露井上，李树生桃旁。虫来啮桃僵。树木身相代，兄弟还相忘！人们借此叹息：井边之桃树与李树相依为伴，虫蛀桃树，往往李树代桃树受蛀而枯萎僵死。李树尚能够以身代为提醒，他们兄弟之情谊连树木都不如",
+"profilePicture": "11",
+"forceSensitive": false,
+"affiliation": "SITH"
+},
+{
+"id": 12,
+"firstName": "第十二计",
+"lastName": "顺手牵羊",
+"birthdate": "顺手牵羊是指趁机顺手夺取财物的策略。故事源于战国时期，楚国将军春申君为了调解齐国和楚国的矛盾，被派往齐国。他在齐国时，发现齐国王宫周围的牛羊成群，于是他便利用这一机会，让士兵们顺手把牛羊牵到楚国。春申君并没有直接下令抢掠，而是暗示士兵们可以趁机牵走这些牲畜。齐国王宫的守卫并没有察觉到楚国士兵的行动，于是楚国得以顺利地将大批牛羊带回了楚国。",
+"profilePicture": "12",
+"forceSensitive": true,
+"affiliation": "FIRST_ORDER"
+},
+{
+"id": 13,
+"firstName": "第十三计",
+"lastName": "打草惊蛇",
+"birthdate": "南唐时候，当涂县（今属安徽省马鞍山市）的县令叫王鲁。这个县令贪得无厌，财迷心窍，见钱眼开，只要是有钱、有利可图，他就可以不顾是非曲直，颠倒黑白。在他做当涂县令的任上，干了许多贪赃枉法的坏事。常言说，上梁不正下梁歪。这王鲁属下的那些大小官吏，见上司贪赃枉法，便也一个个明目张胆干坏事，他们变着法子敲诈勒索、贪污受贿，巧立名目搜刮民财，这样的大小贪官竟占了当涂县官吏的十之八九。因此，当涂县的老百姓真是苦不堪言，一个个从心里恨透了这批狗官，总希望能有个机会好好惩治他们，出出心中怨气。有一次，一个年轻人为了房基地和邻人张三起了纠纷，两家争吵不休，闹到县衙门。谁知，守衙门的士卒不让他们进去，说是要进门钱。年轻人只好拿出几文钱，才进了衙门。进门没走多远，又遇到个人拦住他们，喝道：你们私闯公堂，胆子不小，还不快出去！年轻人连忙分辩道：老爷，我是来请王县令公断的。张三霸占了我的房基地，却反诬我占了他的地，请老爷明鉴。张三认出拦住他们的人是县衙门的主簿（相当于秘书），连忙把他拉到一边，悄悄递过去一锭银子，说道：主簿大人，是他占了我的房基地请你为我做主。主簿见了亮闪闪的银子，眉开眼笑，转脸恶狠狠地对那个年轻人叱道：一点儿小事，也来惊动王大人。出去出去！不由分说，就把他们推出门去。年轻人回到家越想越气，就去联合那些受过主簿敲诈的人，写了状子，递到县衙门。这天，王鲁正坐在县衙里批阅案卷。他翻开一张状纸，状告主簿几个字跃入他的眼帘，他不觉一惊，赶紧往下看，越看越慌，因为状纸中对主簿的违法乱纪行为描述得清清楚楚。这些事情，大部分都是他暗地指使主簿干的。他想：如果这些事追究起来，必然要把自己牵扯进去，这可不妙啊。幸亏这件公文落在我手里，以后可要多加小心啊。想到这里，就随手批了八个字：汝虽打草，吾已蛇惊。意思是说：你们虽然告发的是我的下属，但我已经感到事态严重了，就像打草的时候惊动了草里的蛇一样啊！批完后，王鲁就把这个状子压了下来",
+"profilePicture": "13",
+"forceSensitive": false,
+"affiliation": "RESISTANCE"
+},
+{
+"id": 14,
+"firstName": "第十四计",
+"lastName": "借尸还魂",
+"birthdate": "春申君（春申君李斯）原是楚国的宰相，后来因不满楚怀王的统治而被迫离开楚国。后来楚怀王为了消灭春申君，派人前去刺杀他。春申君逃亡途中，被人误认为已经死亡，但实际上他装死躲过了追杀。春申君逃到了秦国，并且成功说服秦始皇发动六国之战，最终灭掉了楚国。",
+"profilePicture": "14",
+"forceSensitive": true,
+"affiliation": "JEDI"
+},
+{
+  "id": 15,
+  "firstName": "第十五计",
+  "lastName": "调虎离山",
+  "birthdate": "在三国时期，曹操的大将曹仁驻守在荆州襄阳，防御严密，不易攻破。刘备与诸葛亮商议后决定使用“调虎离山”之计。诸葛亮建议先假装进攻荆州其他城池，吸引曹仁出城救援。于是，刘备派兵在荆州周围制造骚乱，放出消息声称要攻打其他重要的城池。曹仁得到消息后，认为刘备要真正攻打其他城池，于是匆忙带兵离开襄阳去救援。就在曹仁离开之时，刘备的大军迅速向空虚的襄阳发动进攻，成功占领了这座战略要地。通过这一计策，刘备巧妙地避开了曹仁的防御力量，夺取了襄阳。",
+  "profilePicture": "15",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+ {
+    "id": 16,
+    "firstName": "第十六计",
+    "lastName": "欲擒故纵",
+    "birthdate": "战国时期，赵国将领乐毅和燕国交战。乐毅在一次战斗中故意假装战败撤退，诱使燕国将领追击。燕军看到乐毅的军队撤退，以为对方不堪一击，便追击过来。乐毅早已布下伏兵，等燕军追击深入时，突然反击。燕军毫无准备，被赵军包围，结果全军覆没。这一计策通过假装撤退来引诱敌人深入，再进行伏击，从而实现大获全胜的目标。",
+    "profilePicture": "16",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 17,
+    "firstName": "第十七计",
+    "lastName": "抛砖引玉",
+    "birthdate": "三国时期，司马懿与蜀国的诸葛亮对峙。司马懿为了引诱蜀军进攻，故意在军营附近布下假阵，并且留下薄弱的防守力量，以示自己兵力不足。诸葛亮见此情况，认为这是一个绝佳的进攻时机，于是派大军进攻司马懿的营地。就在蜀军大举进攻时，司马懿的伏兵突然出现，包围了蜀军，迫使诸葛亮撤军。通过这样的策略，司马懿成功引诱蜀军攻击，最终将其击退。",
+    "profilePicture": "17",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 18,
+    "firstName": "第十八计",
+    "lastName": "擒贼擒王",
+    "birthdate": "东汉末年，曹操决定攻打吕布。吕布当时驻守在下邳城内，曹操深知要想打败吕布，必须先控制住他的主要将领和指挥中心。于是，曹操避开了外围部队的战斗，直接进攻吕布所在的城池。曹操的部队攻陷下邳后，吕布束手无策，最终被俘虏并处死。通过直接攻击敌方的核心，曹操达到了快速瓦解敌军的目的。",
+    "profilePicture": "18",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 19,
+    "firstName": "第十九计",
+    "lastName": "釜底抽薪",
+    "birthdate": "汉朝时期，韩信与赵国交战。韩信采用了“釜底抽薪”之策，派兵秘密偷袭赵军的粮草供应线。赵军发现粮仓被袭击，士兵们顿时士气大降，纷纷逃散。失去了粮食供应的赵军无法继续作战，只能选择撤退。通过切断敌方的后勤补给，韩信在不费一兵一卒的情况下赢得了战争。",
+    "profilePicture": "19",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 20,
+    "firstName": "第二十计",
+    "lastName": "混水摸鱼",
+    "birthdate": "东晋时期，桓温准备攻打东吴。然而，东吴内部正发生内乱，权力争夺不休。桓温决定利用这个时机，趁东吴国内混乱，迅速派兵进攻。由于敌军指挥不利，东晋军队几乎不费力气便攻占了东吴的大部分领土。通过利用敌方内部的混乱，桓温轻松取得了胜利。",
+    "profilePicture": "20",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 21,
+    "firstName": "第二十一计",
+    "lastName": "金蝉脱壳",
+    "birthdate": "唐朝时期，李靖被敌军包围，但他没有正面作战，而是命令一部分士兵守城，制造出坚守的假象，自己率领主力悄悄撤出。在敌军认为他仍在城中时，李靖已率军绕到敌军后方发起突然袭击，最终大破敌军。通过虚张声势，他成功逃脱并反击敌人。",
+    "profilePicture": "21",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 22,
+    "firstName": "第二十二计",
+    "lastName": "关门捉贼",
+    "birthdate": "东汉末年，曹操与敌军对峙于狭窄的山谷中。曹操命令部队假装撤退，敌军不明真相，追入山谷。待敌军深入之后，曹操下令关闭两侧山口，断敌退路，然后集中兵力进行猛攻。敌军被困在谷中，四面受敌，最终被全歼。",
+    "profilePicture": "22",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 23,
+    "firstName": "第二十三计",
+    "lastName": "远交近攻",
+    "birthdate": "战国时期，秦国采用“远交近攻”策略，首先与遥远的齐国建立联盟，确保后方无忧。然后，秦国集中力量攻打临近的赵国。由于赵国没有及时获得盟友的援助，秦军很快击败了赵国，扩大了自己的势力范围。",
+    "profilePicture": "23",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 24,
+    "firstName": "第二十四计",
+    "lastName": "假途伐虢",
+    "birthdate": "春秋时期，晋国欲吞并邻国虢国，但虢国防守坚固，不易攻打。晋国便假意与郑国结盟，请求借道通过郑国攻击其他小国。郑国同意后，晋国大军通过郑国领土，突然袭击了毫无防备的虢国，迅速将其灭亡。",
+    "profilePicture": "24",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 25,
+    "firstName": "第二十五计",
+    "lastName": "偷梁换柱",
+    "birthdate": "三国时期，魏国的郭女王假传圣旨，调换了朝廷的重要人事任命，暗中扶植自己的势力。通过这一手段，她成功地在朝中掌控了大权，使得曹魏政权发生了重大变化。她的手段使得政权结构在不知不觉中被改变。",
+    "profilePicture": "25",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 26,
+    "firstName": "第二十六计",
+    "lastName": "指桑骂槐",
+    "birthdate": "三国时期，吴国的孙权为了整肃军纪，特意在朝堂上大骂一个无关紧要的大臣，实际上是借此警告那些不服从命令的将领们。通过这种方式，孙权成功地震慑了那些不听从他命令的手下，将军队管理得井井有条。",
+    "profilePicture": "26",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+{
+  "id": 27,
+  "firstName": "第二十七计",
+  "lastName": "假痴不癫",
+  "birthdate": "三国时期，周瑜为对抗曹操，故意在曹操面前表现得病重虚弱，暗地里却在调兵遣将，准备一次突然的进攻。曹操见周瑜病重，放松了警惕，结果被周瑜出其不意地攻击，损失惨重。周瑜的“假痴不癫”之计成功地迷惑了曹操，赢得了战争的主动权。",
+  "profilePicture": "27",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 28,
+  "firstName": "第二十七计",
+  "lastName": "上屋抽梯",
+  "birthdate": "三国时期，周瑜为对抗曹操，故意在曹操面前表现得病重虚弱，暗地里却在调兵遣将，准备一次突然的进攻。曹操见周瑜病重，放松了警惕，结果被周瑜出其不意地攻击，损失惨重。周瑜成功地迷惑了曹操，赢得了战争的主动权。",
+  "profilePicture": "28",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
 
 {
-      "id": 11,
-      "firstName": "Strategy Eleven",
-      "lastName": "Li Replaces the Peach with the Plum",
-      "birthdate": "There were five brothers who were idle and dissolute. By a stroke of luck, they gained the emperor's favor and became high-ranking officials. Their lives changed dramatically, enjoying wealth and luxury, living in splendid residences with golden-decorated doors, glazed yellow tiles on the roof, and beautiful pavilions. They had everything they could desire and could party all night long. In their garden pond, thirty-six pairs of mandarin ducks frolicked. However, when one of the brothers committed a crime, they all abandoned him and turned on each other. This led to a popular saying: 'Among the five brothers, all were high-ranking officials. Their residences were adorned with gold, and the peach tree near the well was infested with insects. The peach tree was sacrificed for the sake of the plum tree.' The saying means that just as insects that harm the peach tree might cause the plum tree to wither, the brothers' loyalty was even less reliable than trees.",
-      "profilePicture": "11",
-      "forceSensitive": false,
-      "affiliation": "SITH"
-    },
-    {
-      "id": 12,
-      "firstName": "Strategy Twelve",
-      "lastName": "Take the Sheep While the Hand is Outstretched",
-      "birthdate": "This strategy involves seizing opportunities to take advantage of situations. During the Warring States period, General Chun Shen of Chu was sent to Qi to mediate disputes. While there, he noticed that there were many cattle and sheep around the Qi royal palace. He subtly instructed his soldiers to seize the opportunity and take the livestock to Chu. The guards at the Qi palace did not notice, and Chu successfully brought a large number of cattle and sheep back home.",
-      "profilePicture": "12",
-      "forceSensitive": true,
-      "affiliation": "FIRST_ORDER"
-    },
-    {
-      "id": 13,
-      "firstName": "Strategy Thirteen",
-      "lastName": "Startle the Snake by Beating the Grass",
-      "birthdate": "During the Southern Tang period, a county magistrate named Wang Lu was known for his corruption and greed. His officials followed suit, engaging in extortion and bribery. One day, a young man with a dispute over land came to the court but was obstructed by the officials who demanded bribes. The young man eventually complained about the corrupt officials, leading to a petition. Wang Lu, upon reading the petition, realized the gravity of the situation and knew that if the complaints were investigated, he would be implicated. He thus dismissed the petition, saying that he was already aware of the issues, similar to startling a snake when beating the grass.",
-      "profilePicture": "13",
-      "forceSensitive": false,
-      "affiliation": "RESISTANCE"
-    },
-    {
-      "id": 14,
-      "firstName": "Strategy Fourteen",
-      "lastName": "Borrow a Corpse to Resurrect the Soul",
-      "birthdate": "Chun Shen Jun (Chun Shen Jun Li Si) was once the prime minister of Chu. After leaving Chu due to dissatisfaction with King Huai of Chu, he was targeted for assassination. Chun Shen Jun faked his death to escape and eventually fled to Qin, where he successfully persuaded Qin Shi Huang to wage war on the six states, leading to the fall of Chu.",
-      "profilePicture": "14",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 15,
-      "firstName": "Strategy Fifteen",
-      "lastName": "Lead the Tiger Away from the Mountain",
-      "birthdate": "During the Three Kingdoms period, Cao Ren, a general under Cao Cao, was stationed in Xiangyang with strong defenses. Liu Bei, with Zhuge Liang's advice, decided to use the 'Lead the Tiger Away from the Mountain' strategy. They pretended to attack other cities to lure Cao Ren out. When Cao Ren left to rescue other cities, Liu Bei's army attacked the now unguarded Xiangyang and captured it, demonstrating effective use of diversion.",
-      "profilePicture": "15",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 16,
-      "firstName": "Strategy Sixteen",
-      "lastName": "Capture the Ringleader to Catch the Thief",
-      "birthdate": "During the Warring States period, Zhao Guo general Le Yi faked a retreat to lure the Yan army into pursuit. When Yan's forces were deep in pursuit, Le Yi's ambush troops struck back, encircling and defeating them. This strategy of feigning retreat to set a trap led to a decisive victory.",
-      "profilePicture": "16",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 17,
-      "firstName": "Strategy Seventeen",
-      "lastName": "Throw a Brick to Attract Jade",
-      "birthdate": "During the Three Kingdoms period, Sima Yi used a feigned weak defense to lure Zhuge Liang's forces into attacking. By setting up a fake camp with a weak defense, he tricked Zhuge Liang into launching an assault. When Zhuge Liang’s army attacked, Sima Yi’s ambush troops appeared and encircled the Shu forces, leading to their defeat.",
-      "profilePicture": "17",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 18,
-      "firstName": "Strategy Eighteen",
-      "lastName": "Capture the Thief to Capture the King",
-      "birthdate": "In the late Eastern Han period, Cao Cao attacked Lü Bu, who was stationed in Xiapi. Cao Cao avoided peripheral battles and directly attacked the city. By capturing the city and defeating Lü Bu, Cao Cao achieved a swift resolution by targeting the core of Lü Bu's forces.",
-      "profilePicture": "18",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 19,
-      "firstName": "Strategy Nineteen",
-      "lastName": "Remove the Firewood from Under the Pot",
-      "birthdate": "During the Han Dynasty, Han Xin employed the 'Remove the Firewood from Under the Pot' strategy by secretly attacking Zhao’s supply lines. When Zhao's grain stores were disrupted, their morale plummeted, and they were forced to retreat due to lack of supplies. This tactic won the war without direct confrontation.",
-      "profilePicture": "19",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-    {
-      "id": 20,
-      "firstName": "Strategy Twenty",
-      "lastName": "Stir the Water to Catch the Fish",
-      "birthdate": "During the Eastern Jin period, Huan Wen decided to attack Eastern Wu amidst internal strife. Taking advantage of the chaos, he quickly launched an attack. With the enemy’s internal disarray, the Jin army easily captured most of Eastern Wu’s territory, achieving victory by exploiting the enemy's internal confusion.",
-      "profilePicture": "20",
-      "forceSensitive": true,
-      "affiliation": "JEDI"
-    },
-
+  "id": 29,
+  "firstName": "第二十九计",
+  "lastName": "树上开花",
+  "birthdate": "汉朝时期，汉军遭遇敌军围攻，形势危急。为了反击，汉军将士们想出一条妙计：假装运输粮草，吸引敌军的注意力。汉军利用夜色掩护，悄悄将一部分精锐士兵藏于树上，并将树干和树枝加以伪装。待敌军营地警备松懈时，埋伏的士兵突然从树上跳下，发动突然袭击，趁乱击破敌军主力。此计称为'树上开花'，利用敌军的疏忽，通过不寻常的地点发动攻击，取得奇效。",
+  "profilePicture": "29",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
 {
-    "id": 31,
-    "firstName": "Thirty-First Stratagem",
-    "lastName": "The Beauty Trap",
-    "birthdate": "During the Western Han Dynasty, Emperor Wu of Han, Liu Che, aimed to weaken the Xiongnu's power by implementing the 'Beauty Trap.' He selected a beautiful palace maid and trained her as a spy. She was secretly sent to the Xiongnu Chanyu's camp, where she used her beauty and wit to win the Chanyu's favor. Gaining his trust, she gradually influenced and sowed discord among the Xiongnu, leading to internal strife. As the Xiongnu were weakened by internal conflicts, Emperor Wu seized the opportunity to launch an attack, defeating the Xiongnu and achieving a brilliant victory.",
-    "profilePicture": "31",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  },
-  {
-    "id": 32,
-    "firstName": "Thirty-Second Stratagem",
-    "lastName": "The Empty City Ruse",
-    "birthdate": "During the Three Kingdoms period, Zhuge Liang's Western City was suddenly besieged by Sima Yi's large army. At that time, the city's defenses were extremely weak. Knowing that a direct confrontation would lead to defeat, Zhuge Liang decided to use the 'Empty City Ruse.' He ordered the city gates to be opened wide and himself, dressed in Taoist robes, sat calmly on the city tower, playing the lute and singing. Sima Yi, seeing this, doubted Zhuge Liang's strategy and suspected there were hidden troops, so he ordered a retreat. Zhuge Liang, with a small force, successfully resolved the crisis.",
-    "profilePicture": "32",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  },
-  {
-    "id": 33,
-    "firstName": "Thirty-Third Stratagem",
-    "lastName": "The False Interference",
-    "birthdate": "During the Three Kingdoms period, Cao Cao aimed to weaken the alliance between Sun Quan and Liu Bei by using the 'False Interference.' He sent spies into Sun Quan and Liu Bei's ranks to spread rumors that Liu Bei planned to compete with Sun Quan for territory. Believing these rumors, Sun Quan grew suspicious of Liu Bei. This led to mistrust and the gradual dissolution of their alliance. Ultimately, Cao Cao successfully divided their forces and achieved his goal of isolating the enemy.",
-    "profilePicture": "33",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  },
-  {
-    "id": 34,
-    "firstName": "Thirty-Fourth Stratagem",
-    "lastName": "The Self-Inflicted Wound",
-    "birthdate": "During the Three Kingdoms period, Eastern Wu's grand commander Zhou Yu devised the 'Self-Inflicted Wound' strategy to strike against Cao Cao. He secretly collaborated with his subordinate Huang Gai, instructing Huang Gai to pretend to offend Zhou Yu and receive a beating. After being 'punished,' Huang Gai feigned surrender to Cao Cao, claiming dissatisfaction with Zhou Yu's treatment. Cao Cao believed him and accepted Huang Gai. Soon after, Huang Gai led a fire ship attack against Cao Cao’s army, catching them off guard and causing severe losses. This tactic exploited Cao Cao's gullibility and successfully executed the fire attack.",
-    "profilePicture": "34",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  },
-  {
-    "id": 35,
-    "firstName": "Thirty-Fifth Stratagem",
-    "lastName": "The Chain Stratagem",
-    "birthdate": "During the Three Kingdoms period, Zhuge Liang used the 'Chain Stratagem' while fighting against Cao Cao. He exploited internal conflicts and suspicions within Wei through a series of strategies that kept them entangled. First, he feigned surrender by Shu, causing Cao Cao to lower his guard. Then, Zhuge Liang sent spies to stir up discord between Cao Cao and his subordinates, leading to internal suspicion and discontent within Wei’s army. Finally, Zhuge Liang seized the opportunity to launch an attack and defeated the Wei army embroiled in internal strife.",
-    "profilePicture": "35",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  },
-  {
-    "id": 36,
-    "firstName": "Thirty-Sixth Stratagem",
-    "lastName": "The Best Strategy is to Retreat",
-    "birthdate": "During the Spring and Autumn period, King Goujian of Yue, after being defeated by King Fu Chai of Wu, decided to adopt the 'Best Strategy is to Retreat.' He voluntarily sought peace with Wu, pretending to submit, and secretly sowed discord between King Fu Chai and his ministers. Gaining their trust, Goujian returned to Yue, quickly built up his strength and military capabilities, and prepared for a counterattack. When the time was right, Goujian led his army to launch a surprise attack on Wu, ultimately reversing the situation and defeating Wu, achieving revenge.",
-    "profilePicture": "36",
-    "forceSensitive": true,
-    "affiliation": "JEDI"
-  }
+  "id": 30,
+  "firstName": "第三十计",
+  "lastName": "反客为主",
+  "birthdate": "三国时期，刘备被孙权邀请入驻荆州，暂时休养生息。刘备表面上接受了孙权的好意，暗地里却在荆州发展自己的势力。他任用诸葛亮、关羽、张飞等贤能之士，增强军力，扩大影响力。经过多年的经营和筹备，刘备逐渐掌握了荆州的实权，反客为主，最终成功占据了荆州。这一计策体现了他如何利用寄居之地逐步扩大势力，最终实现战略目标。",
+  "profilePicture": "30",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 31,
+  "firstName": "第三十一计",
+  "lastName": "美人计",
+  "birthdate": "西汉时期，汉武帝刘彻为了瓦解匈奴的势力，决定实施“美人计”。他命人挑选了一位容貌美丽的宫女，并训练她成为特工。她被秘密送往匈奴单于的营地，利用美色和机智赢得单于的宠爱。在单于的信任下，她逐渐施加影响，挑拨离间匈奴内部势力，导致匈奴内部争斗不休。匈奴因为内部纷争而力量削弱，汉武帝乘机发兵，大破匈奴，取得了辉煌胜利。",
+  "profilePicture": "31",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 32,
+  "firstName": "第三十二计",
+  "lastName": "空城计",
+  "birthdate": "三国时期，诸葛亮驻守的西城突然遭到司马懿大军压境。当时，城中兵力极其空虚，诸葛亮深知硬战必败，于是决意使出“空城计”。他下令将城门大开，自己身穿道袍，端坐于城楼之上，一边抚琴，一边唱歌。司马懿见状，深思诸葛亮的智谋，怀疑城中有伏兵，便下令撤军。诸葛亮以少胜多，成功化解了这场危机。",
+  "profilePicture": "32",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 33,
+  "firstName": "第三十三计",
+  "lastName": "反间计",
+  "birthdate": "三国时期，曹操为了削弱孙权和刘备的联盟，决定使用“反间计”。他派遣间谍进入孙权和刘备的内部，散布刘备计划与孙权争夺地盘的谣言。孙权听信谣言，对刘备心生疑虑。双方因此产生猜忌，联盟的信任逐渐瓦解。最终，曹操成功分化了他们的势力，达到了孤立敌人的目的。",
+  "profilePicture": "33",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 34,
+  "firstName": "第三十四计",
+  "lastName": "苦肉计",
+  "birthdate": "三国时期，东吴大都督周瑜为了打击曹操，制定了“苦肉计”。他与部下黄盖密谋，让黄盖故意在众将面前装作触怒周瑜，受到鞭刑。黄盖“受刑”后，假意投降曹操，声称不满周瑜的处置。曹操信以为真，接纳了黄盖。不久，黄盖趁机率领火船突袭曹军，曹军猝不及防，损失惨重。这一计策利用了曹操的轻信，成功实施了火攻。",
+  "profilePicture": "34",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 35,
+  "firstName": "第三十五计",
+  "lastName": "连环计",
+  "birthdate": "三国时期，诸葛亮在与曹操对战时使用了“连环计”。他利用魏国内部不同势力的矛盾和猜忌，通过一系列计策让他们互相牵制。首先，他让蜀国假意投降，曹操信以为真，便未严加防备。随后，诸葛亮派遣间谍挑拨曹操与其部下的关系，导致魏军内部的猜忌和不合。最终，诸葛亮趁机发动进攻，击败了内讧中的魏军。",
+  "profilePicture": "35",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 36,
+  "firstName": "第三十六计",
+  "lastName": "走为上计",
+  "birthdate": "春秋时期，越王勾践在吴王夫差大败之时，决定采用“走为上计”。他主动向吴国请和，假意屈服，并暗中离间吴王与其大臣们的关系。在取得信任后，勾践回到越国，迅速积蓄力量，发展军备，准备反击。待时机成熟时，勾践亲率大军，突然进攻吴国，最终成功逆转战局，彻底击败了吴国，实现了复仇。",
+  "profilePicture": "36",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+}
 ]
 }
-
-
-
-
-
-
