@@ -181,7 +181,87 @@
       "forceSensitive": true,
       "affiliation": "JEDI"
     },
-
+{
+    "id": 21,
+    "firstName": "Stratagem 21",
+    "lastName": "Escape by Shedding the Golden Cicada Skin",
+    "birthdate": "During the Tang Dynasty, Li Jing was surrounded by enemy forces. Instead of confronting them directly, he ordered a portion of his troops to defend the city, creating the illusion of holding the fort while secretly leading his main force out. When the enemy believed he was still in the city, Li Jing had already led his army around to attack them from behind, achieving a surprise victory. Through feigned actions, he successfully escaped and launched a counterattack.",
+    "profilePicture": "21",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 22,
+    "firstName": "Stratagem 22",
+    "lastName": "Shut the Door to Catch the Thief",
+    "birthdate": "At the end of the Eastern Han Dynasty, Cao Cao faced off against enemy forces in a narrow valley. He ordered his troops to feign retreat, luring the enemy into the valley. Once the enemy was deep inside, Cao Cao commanded his forces to close off both ends of the valley, cutting off the enemy’s retreat. Concentrating his troops, he launched a fierce attack, trapping the enemy on all sides and eventually annihilating them.",
+    "profilePicture": "22",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 23,
+    "firstName": "Stratagem 23",
+    "lastName": "Befriend Distant States and Attack Nearby Ones",
+    "birthdate": "During the Warring States period, the state of Qin used the strategy of 'befriending distant states and attacking nearby ones.' Qin first established an alliance with the distant state of Qi to ensure its rear was secure. Then, Qin concentrated its forces to attack the neighboring state of Zhao. Because Zhao did not receive timely aid from its allies, Qin quickly defeated Zhao, expanding its sphere of influence.",
+    "profilePicture": "23",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 24,
+    "firstName": "Stratagem 24",
+    "lastName": "Borrow a Road to Conquer Guo",
+    "birthdate": "During the Spring and Autumn period, the state of Jin wanted to annex the neighboring state of Guo, but Guo's defenses were strong. Jin pretended to form an alliance with the state of Zheng and requested permission to pass through Zheng’s territory to attack other small states. After Zheng agreed, Jin's army passed through Zheng’s land and launched a sudden attack on an unprepared Guo, swiftly conquering it.",
+    "profilePicture": "24",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 25,
+    "firstName": "Stratagem 25",
+    "lastName": "Replace the Beams with Rotten Timbers",
+    "birthdate": "During the Three Kingdoms period, Lady Guo of Wei falsified imperial decrees and manipulated important court appointments, secretly fostering her own power. Through these means, she successfully gained control of the court, causing significant changes in the Wei government. Her subtle strategy altered the power structure without anyone realizing it.",
+    "profilePicture": "25",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 26,
+    "firstName": "Stratagem 26",
+    "lastName": "Point at the Mulberry Tree but Curse the Locust Tree",
+    "birthdate": "During the Three Kingdoms period, Sun Quan of Wu wanted to enforce military discipline. He publicly scolded an insignificant minister in court, but his real intention was to warn the generals who were disobeying orders. Through this indirect method, Sun Quan successfully intimidated those under his command, bringing the military under control.",
+    "profilePicture": "26",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 27,
+    "firstName": "Stratagem 27",
+    "lastName": "Feign Madness but Keep Your Balance",
+    "birthdate": "During the Three Kingdoms period, Zhou Yu pretended to be seriously ill in front of Cao Cao while secretly preparing for an attack. Seeing Zhou Yu’s poor health, Cao Cao let down his guard, only to be surprised by a sudden assault. Zhou Yu’s feigned illness successfully deceived Cao Cao, enabling him to seize the initiative in the war.",
+    "profilePicture": "27",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 28,
+    "firstName": "Stratagem 28",
+    "lastName": "Remove the Ladder after the Enemy Climbs",
+    "birthdate": "During the Three Kingdoms period, Zhou Yu pretended to be seriously ill in front of Cao Cao while secretly preparing for an attack. Seeing Zhou Yu’s poor health, Cao Cao let down his guard, only to be surprised by a sudden assault. Zhou Yu successfully deceived Cao Cao, enabling him to gain the upper hand in the war.",
+    "profilePicture": "28",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
+  {
+    "id": 29,
+    "firstName": "Stratagem 29",
+    "lastName": "Flowers Bloom on a Tree",
+    "birthdate": "During the Han Dynasty, the Han army was surrounded by enemy forces. In a desperate situation, they came up with a clever plan: they pretended to transport supplies to distract the enemy. Under the cover of darkness, some elite Han soldiers hid in the trees, camouflaging themselves. When the enemy’s vigilance weakened, the hidden soldiers suddenly jumped down and launched a surprise attack, defeating the main enemy force. This stratagem, called 'Flowers Bloom on a Tree,' took advantage of the enemy’s negligence to launch an attack from an unexpected position, achieving great success.",
+    "profilePicture": "29",
+    "forceSensitive": true,
+    "affiliation": "JEDI"
+  },
 {
     "id": 31,
     "firstName": "Thirty-First Stratagem",
