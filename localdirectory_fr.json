@@ -269,6 +269,60 @@
   "profilePicture": "30",
   "forceSensitive": true,
   "affiliation": "JEDI"
+},
+    {
+  "id": 31,
+  "firstName": "Trente et unième stratagème",
+  "lastName": "Le stratagème de la belle femme",
+  "birthdate": "Pendant la dynastie des Han occidentaux, l'empereur Wu de Han, Liu Che, a décidé d'utiliser le stratagème de la belle femme pour affaiblir les Huns. Il a sélectionné une concubine d'une grande beauté et l'a formée comme espionne. Elle a été secrètement envoyée dans le camp du chef hun, où elle a gagné son amour grâce à son charme et son intelligence. Avec le temps, elle a influencé la politique intérieure des Huns, semant la discorde entre leurs dirigeants. Lorsque les Huns se sont affaiblis en raison de leurs conflits internes, l'empereur Wu a saisi l'occasion pour lancer une grande offensive contre eux, remportant une victoire décisive.",
+  "profilePicture": "31",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 32,
+  "firstName": "Trente-deuxième stratagème",
+  "lastName": "Le stratagème de la ville vide",
+  "birthdate": "Pendant la période des Trois Royaumes, Zhuge Liang était en poste à Xicheng lorsque l'armée de Sima Yi s'approcha soudainement. Conscient que ses forces étaient insuffisantes pour résister à un assaut direct, Zhuge Liang utilisa le stratagème de la ville vide. Il ordonna d'ouvrir grand les portes de la ville, s'assit calmement en haut des remparts, vêtu d'une robe de taoïste, jouant de la cithare et chantant. Sima Yi, méfiant des ruses de Zhuge Liang, crut qu'une embuscade l'attendait et décida de battre en retraite, permettant à Zhuge Liang de surmonter cette crise avec succès.",
+  "profilePicture": "32",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 33,
+  "firstName": "Trente-troisième stratagème",
+  "lastName": "Le stratagème de la contre-espionnage",
+  "birthdate": "Pendant la période des Trois Royaumes, Cao Cao, pour affaiblir l'alliance entre Sun Quan et Liu Bei, décida d'utiliser le stratagème de la contre-espionnage. Il envoya des espions infiltrer les camps de Sun Quan et Liu Bei, répandant des rumeurs selon lesquelles Liu Bei prévoyait de rivaliser avec Sun Quan pour le contrôle de certains territoires. Sun Quan, croyant à ces mensonges, commença à douter de Liu Bei, et la méfiance entre eux éroda leur alliance. Finalement, Cao Cao réussit à diviser leurs forces et à les affaiblir.",
+  "profilePicture": "33",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 34,
+  "firstName": "Trente-quatrième stratagème",
+  "lastName": "Le stratagème de l'auto-sabotage",
+  "birthdate": "Pendant la période des Trois Royaumes, Zhou Yu, le grand commandant de l'est de Wu, élabora un plan pour affaiblir Cao Cao. Avec son subordonné Huang Gai, ils simulèrent une querelle publique, où Zhou Yu infligea un châtiment sévère à Huang Gai. Après sa 'punition', Huang Gai prétendit vouloir faire défection et rejoindre Cao Cao. Cao Cao, croyant en la sincérité de Huang Gai, l'accepta dans ses rangs. Peu après, Huang Gai mena une attaque surprise en utilisant des navires enflammés, infligeant de lourdes pertes à Cao Cao. Ce stratagème a réussi en exploitant la confiance excessive de Cao Cao.",
+  "profilePicture": "34",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 35,
+  "firstName": "Trente-cinquième stratagème",
+  "lastName": "Le stratagème des chaînons liés",
+  "birthdate": "Pendant la période des Trois Royaumes, Zhuge Liang utilisa le stratagème des chaînons liés dans sa guerre contre Cao Cao. Il exploita les dissensions internes au sein du royaume de Wei, en utilisant une série de stratagèmes pour exacerber les tensions entre les différentes factions. D'abord, il fit semblant de se rendre, ce qui poussa Cao Cao à baisser sa garde. Ensuite, il envoya des espions semer la discorde entre Cao Cao et ses généraux, ce qui provoqua des querelles internes dans l'armée de Wei. Zhuge Liang profita de cette situation pour lancer une offensive et remporter la victoire.",
+  "profilePicture": "35",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 36,
+  "firstName": "Trente-sixième stratagème",
+  "lastName": "Le meilleur plan est de fuir",
+  "birthdate": "Pendant la période des printemps et automnes, le roi Goujian du royaume de Yue, après une défaite face au roi Fuchai de Wu, choisit d'adopter le stratagème de la retraite. Il feignit de se soumettre à Wu tout en semant la discorde entre Fuchai et ses conseillers. Une fois en sécurité chez lui, Goujian rassembla ses forces et développa ses armées en secret. Lorsque le moment fut propice, il mena une attaque surprise contre Wu, renversant la situation et remportant la victoire, accomplissant ainsi sa revanche.",
+  "profilePicture": "36",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
 }
   ]
 }
