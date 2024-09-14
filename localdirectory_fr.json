@@ -125,6 +125,87 @@
   "profilePicture": "14",
   "forceSensitive": true,
   "affiliation": "JEDI"
+},
+    {
+  "id": 15,
+  "firstName": "Quinzième Stratagème",
+  "lastName": "Détourner le tigre de la montagne",
+  "birthdate": "Pendant la période des Trois Royaumes, le général Cao Ren, sous les ordres de Cao Cao, défendait fermement la ville de Xiangyang dans la province de Jingzhou. Liu Bei, en consultation avec Zhuge Liang, décida d'utiliser le stratagème de 'Détourner le tigre de la montagne'. Zhuge Liang proposa de simuler une attaque contre d'autres villes de Jingzhou pour attirer Cao Ren hors de la ville. Liu Bei créa des troubles autour de Jingzhou et fit courir le bruit qu'il allait attaquer d'autres villes importantes. Cao Ren, croyant à une véritable attaque, quitta Xiangyang pour aller secourir les autres villes. Dès que Cao Ren fut parti, les troupes de Liu Bei attaquèrent rapidement la ville presque sans défense et s'en emparèrent. Grâce à ce stratagème, Liu Bei évita habilement la force défensive de Cao Ren et prit Xiangyang.",
+  "profilePicture": "15",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 16,
+  "firstName": "Seizième Stratagème",
+  "lastName": "Attirer pour mieux capturer",
+  "birthdate": "Pendant la période des Royaumes Combattants, le général Zhao Leyi simula une retraite face aux forces du royaume de Yan pour les inciter à poursuivre. Les troupes de Yan, pensant que l'armée de Zhao était en déroute, poursuivirent avec enthousiasme. Mais une embuscade avait été préparée. Lorsque les troupes de Yan pénétrèrent profondément, l'armée de Zhao contre-attaqua brusquement et encercla les troupes de Yan, les anéantissant totalement. Cette stratégie consistait à feindre une retraite pour attirer l'ennemi plus loin, puis à tendre une embuscade.",
+  "profilePicture": "16",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 17,
+  "firstName": "Dix-septième Stratagème",
+  "lastName": "Jeter un appât pour attirer le jade",
+  "birthdate": "Pendant la période des Trois Royaumes, Sima Yi et Zhuge Liang du royaume de Shu étaient en confrontation. Sima Yi, pour inciter les forces de Shu à attaquer, installa un faux camp avec peu de défense pour simuler un manque de forces. Zhuge Liang, voyant cette faiblesse apparente, considéra que c'était une bonne opportunité pour attaquer. Il envoya ses troupes en attaque massive. Mais à ce moment, les forces de Sima Yi, embusquées, entourèrent l'armée de Shu, forçant Zhuge Liang à battre en retraite. Sima Yi réussit ainsi à attirer l'armée de Shu et à les repousser avec succès.",
+  "profilePicture": "17",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 18,
+  "firstName": "Dix-huitième Stratagème",
+  "lastName": "Capturer le chef pour vaincre les ennemis",
+  "birthdate": "À la fin de la dynastie Han, Cao Cao décida d'attaquer Lü Bu. Lü Bu défendait la ville de Xiapi, et Cao Cao savait que pour vaincre Lü Bu, il devait contrôler ses principaux commandants et son centre de commandement. Il évita donc de s'engager avec les troupes extérieures et attaqua directement la ville où résidait Lü Bu. Après avoir pris Xiapi, Lü Bu fut capturé et exécuté. En ciblant directement le cœur de l'ennemi, Cao Cao réussit à désorganiser rapidement l'armée adverse.",
+  "profilePicture": "18",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 19,
+  "firstName": "Dix-neuvième Stratagème",
+  "lastName": "Couper l'approvisionnement",
+  "birthdate": "Pendant la dynastie Han, Han Xin utilisa le stratagème de 'couper l'approvisionnement' contre l'armée de Zhao. Il envoya une unité secrète attaquer la ligne de ravitaillement de l'armée de Zhao. Privée de nourriture, l'armée de Zhao fut rapidement démoralisée et se dispersa. Han Xin gagna ainsi la guerre sans avoir à engager ses troupes dans une bataille directe.",
+  "profilePicture": "19",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 20,
+  "firstName": "Vingtième Stratagème",
+  "lastName": "Pêcher dans les eaux troubles",
+  "birthdate": "Pendant la dynastie Jin, Huan Wen prépara une attaque contre le royaume de Wu, qui était en proie à des luttes de pouvoir internes. Profitant de cette situation, Huan Wen attaqua rapidement. Les forces de Wu, mal coordonnées à cause des querelles internes, furent rapidement vaincues. En profitant du chaos interne de l'ennemi, Huan Wen gagna facilement la victoire.",
+  "profilePicture": "20",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 21,
+  "firstName": "Vingt et unième Stratagème",
+  "lastName": "La mue de la cigale d'or",
+  "birthdate": "Pendant la dynastie Tang, Li Jing se retrouva encerclé par l'ennemi. Au lieu de se battre de front, il ordonna à une partie de ses troupes de rester en arrière pour simuler une défense tandis qu'il se retirait discrètement avec l'armée principale. L'ennemi, croyant qu'il était toujours dans la ville, fut surpris lorsque Li Jing fit une contre-attaque par l'arrière et défit l'armée ennemie. En simulant une fausse défense, il réussit à échapper et à vaincre ses adversaires.",
+  "profilePicture": "21",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 22,
+  "firstName": "Vingt-deuxième Stratagème",
+  "lastName": "Fermer la porte pour capturer l'ennemi",
+  "birthdate": "À la fin de la dynastie Han, Cao Cao confronta l'ennemi dans une vallée étroite. Il fit semblant de battre en retraite, incitant l'ennemi à le poursuivre dans la vallée. Lorsque l'ennemi s'enfonça profondément dans la vallée, Cao Cao ordonna de fermer les sorties et concentra ses forces pour une attaque massive. L'ennemi, piégé, fut annihilé.",
+  "profilePicture": "22",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 23,
+  "firstName": "Vingt-troisième Stratagème",
+  "lastName": "S'allier avec les lointains et attaquer les voisins",
+  "birthdate": "Pendant la période des Royaumes Combattants, le royaume de Qin adopta la stratégie de 'S'allier avec les lointains et attaquer les voisins'. Il forma d'abord une alliance avec le royaume éloigné de Qi, assurant ainsi que son flanc était protégé. Ensuite, Qin concentra ses forces pour attaquer le royaume voisin de Zhao. Sans aide rapide de ses alliés, Zhao fut vaincu, ce qui permit à Qin d'étendre son territoire.",
+  "profilePicture": "23",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
 }
   ]
 }
