@@ -62,6 +62,69 @@
       "photoProfil": "7",
       "sensibleForce": true,
       "affiliation": "PREMIER ORDRE"
-    }
+    },
+    {
+  "id": 8,
+  "firstName": "Stratagème Huit",
+  "lastName": "Détourner l'ennemi en secret",
+  "birthdate": "Au début de la dynastie Han occidentale, Liu Bang, fondateur de la dynastie, et Xiang Yu, roi de Chu, se disputaient le contrôle du pays. Le stratège Han Xin, servant sous Liu Bang, était un général exceptionnellement intelligent, et il offrit à Liu Bang de nombreux conseils pour remporter des batailles. À l'époque, Han Xin reçut l'ordre de diriger une armée pour attaquer le territoire de l'Ouest de Wei. Le dirigeant de Wei était très puissant, et les défenses étaient solides, rendant une attaque frontale très risquée. Han Xin décida d'utiliser la stratégie de détourner l'ennemi en secret. Il ordonna à ses troupes de construire un pont flottant près de Chencang en plein jour, pour donner l'illusion qu'ils allaient attaquer depuis cet endroit. Il fit également en sorte que les soldats fassent beaucoup d'agitation autour de Chencang, créant ainsi l'apparence d'une attaque imminente. Pendant ce temps, il envoya secrètement une force d'élite traverser la rivière par une autre route. Comme l'attention de l'ennemi était concentrée sur Chencang, ils ne remarquèrent pas la véritable voie d'attaque. La force d'élite de Han Xin passa derrière les lignes ennemies et prit l'ennemi par surprise. Lorsque l'ennemi réalisa que l'armée de Han Xin avait pénétré profondément dans leur territoire, il était trop tard, et ils furent battus en tentant de réagir précipitamment. Cette stratégie permit à Han Xin de non seulement franchir les défenses ennemies mais aussi de s'emparer d'un point stratégique important.",
+  "profilePicture": "8",
+  "forceSensitive": true,
+  "affiliation": "SITH"
+},
+{
+  "id": 9,
+  "firstName": "Stratagème Neuf",
+  "lastName": "Observer le feu de l'autre côté de la rivière",
+  "birthdate": "Cette histoire se passe pendant la période des Royaumes Combattants, lorsque sept royaumes luttaient pour la suprématie. Un conflit éclata entre les royaumes de Qi et de Yan, et les deux nations mobilisèrent de grandes armées. Zhao Wuling, roi de Zhao, décida d'adopter la stratégie d'observer le feu de l'autre côté de la rivière, refusant d'intervenir dans le conflit. Il rassembla ses conseillers et dit : « Si nous intervenons, nous attirerons la haine d'un côté ou de l'autre, et notre force n'est pas suffisante pour combattre deux royaumes. Il est préférable d'attendre qu'ils s'affaiblissent mutuellement. » En observant la guerre, Zhao attendit patiemment que les deux royaumes s'épuisent. Lorsque Qi et Yan furent trop affaiblis pour continuer à se battre, Zhao lança une attaque éclair et s'empara facilement de vastes territoires.",
+  "profilePicture": "9",
+  "forceSensitive": false,
+  "affiliation": "JEDI"
+},
+{
+  "id": 10,
+  "firstName": "Stratagème Dix",
+  "lastName": "Cacher un poignard dans un sourire",
+  "birthdate": "Pendant la période des Royaumes Combattants, le roi de Qi, Tian Wen, se retrouva entouré d'ennemis. Il choisit d'adopter la stratégie de cacher un poignard dans un sourire. En apparence, il montrait de la bonne volonté à ses voisins, tout en développant en secret des moyens de défense militaire. Tian Wen intensifia également le commerce et la culture pour renforcer son pays. Un jour, un ambassadeur de Qi se rendit à Chu, où il montra des signes d'amitié tout en recueillant secrètement des renseignements cruciaux. Grâce à ces informations, Qi put se préparer à de futures actions contre Chu. La stratégie permit à Tian Wen de maintenir une façade diplomatique tout en protégeant les intérêts de Qi.",
+  "profilePicture": "10",
+  "forceSensitive": true,
+  "affiliation": "RESISTANCE"
+},
+{
+  "id": 11,
+  "firstName": "Stratagème Onze",
+  "lastName": "Sacrifier le prunier pour sauver le pêcher",
+  "birthdate": "Il était une fois cinq frères, tous paresseux et débauchés. Par chance, ils furent nommés aux postes de fonctionnaires impériaux. Ils jouissaient alors d'une vie opulente. Cependant, lorsque l'un des frères commit un crime et fut emprisonné, les autres frères, au lieu de le soutenir, se trahirent mutuellement. Le sacrifice de l'un pour sauver les autres devint une métaphore pour la stratégie de sacrifier un élément pour en préserver un autre.",
+  "profilePicture": "11",
+  "forceSensitive": false,
+  "affiliation": "SITH"
+},
+{
+  "id": 12,
+  "firstName": "Stratagème Douze",
+  "lastName": "Voler les moutons en passant",
+  "birthdate": "La stratégie de 'voler les moutons en passant' provient de l'époque des Royaumes Combattants. Le général Chun Shen fut envoyé pour apaiser un conflit entre Qi et Chu. Pendant son séjour au palais de Qi, il découvrit de nombreux troupeaux de moutons près du palais et profita de l'occasion pour permettre à ses soldats de subtiliser discrètement les moutons. Grâce à sa subtilité, il put emmener une grande quantité de bétail à Chu sans être détecté.",
+  "profilePicture": "12",
+  "forceSensitive": true,
+  "affiliation": "FIRST_ORDER"
+},
+{
+  "id": 13,
+  "firstName": "Stratagème Treize",
+  "lastName": "Frapper l'herbe pour effrayer le serpent",
+  "birthdate": "Pendant la période des Cinq Dynasties, un magistrat corrompu du comté de Dantu, Wang Lu, était connu pour ses pratiques illégales. Les habitants du comté, lassés de la corruption, portèrent plainte. Lorsque Wang Lu découvrit l'existence de cette plainte, il comprit que bien que la plainte visait son subordonné, c'était en réalité lui-même qui était visé. Il réalisa qu'il devait être plus prudent à l'avenir, comme un serpent qui est effrayé lorsque l'herbe autour de lui est touchée.",
+  "profilePicture": "13",
+  "forceSensitive": false,
+  "affiliation": "RESISTANCE"
+},
+{
+  "id": 14,
+  "firstName": "Stratagème Quatorze",
+  "lastName": "Ressusciter un cadavre",
+  "birthdate": "Le ministre Li Si du royaume de Chu, également connu sous le nom de Chunshen Jun, fut un jour accusé de trahison et forcé de fuir. On le croyait mort, mais il avait feint sa mort pour échapper à ses poursuivants. Plus tard, il se réfugia au royaume de Qin et persuada le roi de Qin de lancer une campagne contre les autres royaumes. Cette stratégie lui permit de regagner du pouvoir et d'anéantir Chu.",
+  "profilePicture": "14",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+}
   ]
 }
