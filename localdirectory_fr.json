@@ -206,6 +206,69 @@
   "profilePicture": "23",
   "forceSensitive": true,
   "affiliation": "JEDI"
+},
+    {
+  "id": 24,
+  "firstName": "Vingt-quatrième stratagème",
+  "lastName": "Attaquer à travers un allié",
+  "birthdate": "À l'époque du printemps et de l'automne, le royaume de Jin voulait annexer le royaume voisin de Guo, mais Guo était bien défendu et difficile à attaquer. Le royaume de Jin a donc feint une alliance avec le royaume de Zheng et a demandé la permission de traverser son territoire pour attaquer d'autres petits royaumes. Zheng a accepté, et les troupes de Jin, après avoir traversé son territoire, ont attaqué par surprise le royaume de Guo, qui n'était pas préparé. Guo a rapidement été vaincu.",
+  "profilePicture": "24",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 25,
+  "firstName": "Vingt-cinquième stratagème",
+  "lastName": "Changer la poutre par une autre",
+  "birthdate": "Pendant la période des Trois Royaumes, la princesse Guo du royaume de Wei a faussement transmis des décrets impériaux, modifiant ainsi les nominations importantes au sein de la cour. En soutenant secrètement ses propres alliés, elle a réussi à consolider son pouvoir et à provoquer des changements majeurs dans la structure du gouvernement de Wei, sans que cela ne soit immédiatement remarqué.",
+  "profilePicture": "25",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 26,
+  "firstName": "Vingt-sixième stratagème",
+  "lastName": "Réprimander un sous-fifre pour en intimider un autre",
+  "birthdate": "Pendant la période des Trois Royaumes, Sun Quan du royaume de Wu voulait renforcer la discipline de son armée. Il a donc publiquement critiqué un ministre mineur lors d'une assemblée, mais le vrai message était destiné à ses généraux qui ne suivaient pas les ordres. Ce stratagème lui a permis de remettre de l'ordre dans son armée et d'assurer que ses commandants lui obéissent.",
+  "profilePicture": "26",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 27,
+  "firstName": "Vingt-septième stratagème",
+  "lastName": "Se faire passer pour fou",
+  "birthdate": "Pendant la période des Trois Royaumes, Zhou Yu voulait tromper Cao Cao. Il a donc feint d'être gravement malade et faible, tandis qu'il préparait en secret une offensive surprise. Cao Cao, croyant Zhou Yu trop malade pour être une menace, a relâché sa vigilance, permettant à Zhou Yu de lancer une attaque soudaine qui a infligé de lourdes pertes à Cao Cao.",
+  "profilePicture": "27",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 28,
+  "firstName": "Vingt-huitième stratagème",
+  "lastName": "Monter sur le toit puis retirer l'échelle",
+  "birthdate": "Pendant la période des Trois Royaumes, Zhou Yu, pour tromper Cao Cao, a feint la faiblesse en public mais préparait secrètement une attaque surprise. Lorsque Cao Cao a vu la faiblesse apparente de Zhou Yu, il a abaissé sa garde. Zhou Yu a ensuite lancé une offensive inattendue, infligeant de lourdes pertes à Cao Cao.",
+  "profilePicture": "28",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 29,
+  "firstName": "Vingt-neuvième stratagème",
+  "lastName": "Faire fleurir des arbres",
+  "birthdate": "À l'époque de la dynastie Han, les troupes de Han étaient encerclées par l'ennemi. Pour contre-attaquer, ils ont imaginé un stratagème astucieux : ils ont feint de transporter des provisions pour attirer l'attention de l'ennemi. Profitant de la nuit, une partie des soldats s'est cachée dans des arbres, qu'ils ont ensuite camouflés. Lorsque la garde ennemie a baissé sa vigilance, les soldats embusqués ont attaqué par surprise, semant la panique et défaisant l'armée ennemie. Ce stratagème est connu sous le nom de 'faire fleurir des arbres', car il utilise des positions inattendues pour mener une attaque efficace.",
+  "profilePicture": "29",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
+},
+{
+  "id": 30,
+  "firstName": "Trentième stratagème",
+  "lastName": "Inverser les rôles",
+  "birthdate": "Pendant la période des Trois Royaumes, Liu Bei a été invité par Sun Quan à s'établir temporairement à Jingzhou pour reprendre des forces. En apparence, il acceptait l'hospitalité de Sun Quan, mais en secret, il renforçait son propre pouvoir à Jingzhou, en nommant des généraux comme Zhuge Liang, Guan Yu et Zhang Fei. Au fil du temps, il a pris le contrôle de la région, inversant les rôles et devenant le maître de Jingzhou. Ce stratagème montre comment Liu Bei a utilisé l'hospitalité pour accroître son pouvoir et atteindre ses objectifs stratégiques.",
+  "profilePicture": "30",
+  "forceSensitive": true,
+  "affiliation": "JEDI"
 }
   ]
 }
